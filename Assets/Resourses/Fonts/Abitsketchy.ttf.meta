@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f58dbb0759d361843be86534fba68cf7
+timeCreated: 1601375875
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: A bit sketchy
+  fontNames:
+  - A bit sketchy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

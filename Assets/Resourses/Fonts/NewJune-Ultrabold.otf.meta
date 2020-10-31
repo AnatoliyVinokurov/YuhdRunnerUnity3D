@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: dddebc0eff8ac074ca2c3d9587170778
+timeCreated: 1601376455
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NewJuneUltrabold
+  fontNames:
+  - NewJuneUltrabold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 60d15a4ff00d97a4bae9b5ae75d68234, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
